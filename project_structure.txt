@@ -1,0 +1,29 @@
+mwayilink/
+├── lib/
+│   ├── models/
+│   │   ├── user_model.dart
+│   │   ├── product_model.dart
+│   │   ├── order_model.dart
+│   │   └── address_model.dart
+│   ├── services/
+│   │   ├── auth_service.dart
+│   │   ├── product_service.dart
+│   │   ├── order_service.dart
+│   │   └── address_service.dart
+│   ├── providers/
+│   │   ├── auth_provider.dart
+│   │   ├── product_provider.dart
+│   │   ├── order_provider.dart
+│   │   └── address_provider.dart
+│   ├── widgets/
+│   │   ├── custom_button.dart
+│   │   ├── product_card.dart
+│   │   ├── order_item.dart
+│   │   └── address_form.dart
+│   └── screens/
+│       ├── login_screen.dart
+│   │   ├── product_list_screen.dart
+│   │   ├── order_history_screen.dart
+│   │   ├── address_screen.dart
+│   │   └── profile_screen.dart
+└── pubspec.yaml
