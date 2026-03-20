@@ -1,2 +1,9 @@
+
 # Mwayilink
-Build the full app using an already generated code
+
+Mwayilink is a marketplace app for:
+- Jobs
+- Houses
+- Farm products
+
+Built using Flutter.
